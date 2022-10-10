@@ -24,7 +24,7 @@ Our tech stack from the bottom up:
 
 ---
 
-**We are hiring!** Check out our career opportunities: https://talon.one/careers
+**We are hiring!** Check out our career opportunities: https://www.talon.one/jobs
 
 Why work with us? Check our [Instagram Talon.One Page](https://www.instagram.com/talon.one/) to learn more about culture
 
