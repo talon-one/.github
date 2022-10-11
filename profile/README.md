@@ -2,17 +2,17 @@
 
 We’re a powerful promotion engine that enables you to create targeted and customized marketing promotions built around your customer and session data. Create, manage and track discounts, coupon codes, referral, loyalty and product bundles all in one holistic platform. 
 
-## 🤔 Why would you want to do that? 
+## ✨ Unleashing your promotion campaigns 
 
 Once you integrate with Talon.One, marketing teams get the flexibility to customize promotions through the campaign manager UI and access to any data linked to your businesses in real-time through the robust API. This enables our clients to drive customer engagement, grow their business and reduce promotional spend by deploying highly targeted and personalized promotional campaigns.
 
-## 🌍​ Who is Talon.One?
+## 🌍 Who we are
 
 Launched in 2015 by people who understand disruptive marketing, Talon.One has grown into the leading Promotion Engine for enterprises. We’re an international team with 190 team members coming from 40 different countries. We have 4 locations, HQ in Germany and 3 other locations, USA, UK and Singapore. 
 
 Talon.One is trusted globally by companies like Zalando, Adidas, Reebok, Eddie Bauer, Boohoo, Debenhams, River Island, Sports Direct, Carlsberg, DocMorris, Shop Apotheke, GoodRx, Helloprint and JD Sports. We have built a product that is loved by marketers and developers alike.
 
-## 🛠️​ What’s under the hood?
+## 🛠️ Our tech stack
 
 Our tech stack from the bottom up: 
   - Kubernetes running on Google Cloud 
